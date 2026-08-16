@@ -1,0 +1,18 @@
+[
+  {
+    "id": "AR-001", "name": "Five Mukhi Nepal Rudraksha", "category": "Rudraksha",
+    "origin": "Nepal", "mukhi": 5, "type": "Loose Bead", "size": "18–20 MM", "weight": "8.2 G",
+    "price": "₹1,499", "rarity": "Common", "featured": true,
+    "image": "", "images": [], "video": "", "certification": true, "verification": "AR-DVP-0005-001",
+    "description": "Sourced from the verdant slopes of Nepal, this five-mukhi Rudraksha carries the quiet strength of the Himalayas.",
+    "keywords": ["panchmukhi", "five face", "lord shiva", "nepal", "calm", "peace", "meditation"]
+  },
+  {
+    "id": "AR-002", "name": "One Mukhi Nepal Rudraksha", "category": "Rudraksha",
+    "origin": "Nepal", "mukhi": 1, "type": "Loose Bead", "size": "22–25 MM", "weight": "12.5 G",
+    "price": "₹25,000", "rarity": "Rare", "featured": true,
+    "image": "", "images": [], "video": "", "certification": true, "verification": "AR-DVP-0001-003",
+    "description": "The rarest of all forms — the single-mukhi Rudraksha is considered the symbol of supreme truth.",
+    "keywords": ["ek mukhi", "one face", "rare", "supreme", "shiva", "nepal", "collector"]
+  }
+]
