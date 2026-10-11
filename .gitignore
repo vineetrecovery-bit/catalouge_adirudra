@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+*.sqlite
+*.sqlite3
+uploads/
+adirudra-catalogue-backup-*.json
